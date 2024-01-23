@@ -1,31 +1,31 @@
 h3,
 label,
 button {
-  font-size: 2rem;
-  font-family: "Courier New", Courier, monospace;
+	font-size: 2rem;
+	font-family: "Courier New", Courier, monospace;
 }
 
 .container {
-  text-align: center;
-  margin: 0px 200px;
+	text-align: center;
+	margin: 0px 200px;
 }
 
 .stop-watch {
-  border: 1px solid gray;
-  border-radius: 10px;
-  margin-top: 100px;
-  padding: 20px 0px;
-  background-color: rgb(117, 117, 28);
+	border: 1px solid gray;
+	border-radius: 10px;
+	margin-top: 100px;
+	padding: 20px 0px;
+	background-color: rgb(117, 117, 28);
 }
 
 .show {
-  margin-top: 10px;
-  font-size: 40px;
+	margin-top: 10px;
+	font-size: 40px;
 }
 
-.time-up{
-  color: red;
-  font-size: 2rem;
-  border: 1px solid black;
-  font-weight: bold;
+.time-up {
+	color: red;
+	font-size: 2rem;
+	border: 1px solid black;
+	font-weight: bold;
 }

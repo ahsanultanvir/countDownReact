@@ -1,13 +1,12 @@
 import CountDown from "./components/countDown";
-import CountdownTimer from "./components/test";
+// import CountdownTimer from "./components/test";
 
 function App() {
-  return (
-      <>
-        <CountDown/>
-        {/* <CountdownTimer/> */}
-      </>
-  )
+	return (
+		<>
+			<CountDown />
+		</>
+	);
 }
 
 export default App;
