@@ -29,3 +29,7 @@ button {
 	border: 1px solid black;
 	font-weight: bold;
 }
+
+hr{
+  margin-bottom: 20px;
+}

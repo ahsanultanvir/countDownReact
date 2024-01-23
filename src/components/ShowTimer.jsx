@@ -1,10 +1,10 @@
 import "../styles/CountDown.css";
 
 function ShowTimer({ hour, minute, second }) {
-	console.log("ShowTimer....");
+	// console.log("ShowTimer....");
 	return (
 		<div className="show">
-			{hour} : {minute} : {second}{" "}
+			{hour} : {minute} : {second}
 		</div>
 	);
 }
